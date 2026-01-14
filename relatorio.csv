@@ -1,0 +1,11 @@
+status,nome,email,telefone,motivo
+VALIDO,Daniel,daniel@email.com,11999999999,-
+VALIDO,Ana,ana@email.com,11977777777,-
+VALIDO,Carlos,carlos@email.com,11988887777,-
+VALIDO,Pedro,pedro@email.com,11955554444,-
+VALIDO,Lucas,lucas@email.com,11933332222,-
+VALIDO,Rafael,rafael@email.com,11922221111,-
+INVALIDO,Maria,maria@email,11888888888,Email inválido
+INVALIDO,Joao,joao@email.com,123,Telefone inválido
+INVALIDO,Fernanda,fernanda@email,11966665555,Email inválido
+INVALIDO,Mariana,mariana@email,abc,Email e telefone inválidos

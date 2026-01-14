@@ -1,0 +1,10 @@
+Daniel;daniel@email.com;11999999999
+Maria;maria@email;11888888888
+Joao;joao@email.com;123
+Ana;ana@email.com;11977777777
+Carlos;carlos@email.com;11988887777
+Fernanda;fernanda@email;11966665555
+Pedro;pedro@email.com;11955554444
+Lucas;lucas@email.com;11933332222
+Mariana;mariana@email;abc
+Rafael;rafael@email.com;11922221111
